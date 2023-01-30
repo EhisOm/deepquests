@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    margin-top: -90px;
+}
+header h1 {
+    margin-bottom: 0%;  
+}
+.header-list {
+    margin-top: -40px;
+}
+
+li a {
+    color: silver;
+    text-decoration: none;
+    margin: 20px;
+}
+
+li :hover {
+    /* color: black; */
+    transition: 2s;
+    color: goldenrod;
+}
+
+li {
+    display: inline;   
+}
+ul {
+    font-size: larger;
+    font-weight: 600;
+}
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+.section1 {
+    padding: 70px;
+    background: goldenrod ;
+}
+.white-space {
+    margin: 20px;
+}
+
+.contacts span {
+    margin-left: 100px;
+}
+.contacts h2 {
+    text-align: center;
+    position: relative;
+    top: -60px;
+}
+
+.bootstrap2 span{
+    margin-right: 110px;
+    padding: 20px;
+}
+.bootstrap2 {
+    position: relative;
+    top: 50px;
+    left: -28px;
+}
+
+section {
+    margin-bottom: 10px;
+    background:goldenrod;    
+    padding: 80px;
+}
+.section3 {
+    background:  url(dell-SGY0LIfTKZ4-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 700px;
+    margin-top: 40px;
+    border: solid goldenrod;
+}
+footer {
+    margin-top: 20px;
+    font-size: 12px;
+    /* background:silver; */
+    padding: 10px;
+    text-align: center;
+}

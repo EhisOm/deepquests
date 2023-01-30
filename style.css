@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    margin-top: -70px;
+}
+
+header h1 {
+    margin-bottom: 0%;  
+}
+.header-list {
+    margin-top: -40px;
+}
+
+li a {
+    color: silver;
+    text-decoration: none;
+    margin: 20px;
+}
+
+li :hover {
+    transition: 2s;
+    /* color: black; */
+    color: darkgreen;
+}
+
+li {
+    display: inline;
+    
+}
+ul {
+    font-size: larger;
+    font-weight: 600;
+}
+
+div {
+    margin: 0;
+    border: solid goldenrod 100px;
+}
+div p{
+    background: goldenrod;
+    padding: 150px;
+}
+span {
+    font-size: bolder;
+    font-weight:700;
+}
+.main-page {
+    display: inline-block;
+
+}
+.main-page img {
+    max-width: 400px;    
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+}
+.float-right {
+    float: right;
+    margin-top: 50px;
+}
+
+.nav-space {
+    padding: 20px;
+    background:silver;
+    text-align: center;
+}
+.section3 {
+    background:  url(dell-0J8thHZfosE-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 700px;
+    margin-top: 40px;
+    border: solid goldenrod;
+}
+
+
+footer p {
+    word-spacing: 10px;
+    font-size:12px ;
+    padding: 20px;
+    /* background:silver; */
+    text-align: center;
+}
+
+@media only screen and (max-width:300px) {
+  
+
+}
+
+/* footer p small {
+    word-spacing: -80px;
+} */
