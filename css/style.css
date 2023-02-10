@@ -44,10 +44,10 @@ div p{
     background: goldenrod;
     padding: 150px;
 }
-span {
+/* span {
     font-size: bolder;
     font-weight:700;
-}
+} */
 .main-page {
     display: inline-block;
 
@@ -73,7 +73,7 @@ span {
     background:  url(images/dell-0J8thHZfosE-unsplash.jpg);
     background-size: cover;
     background-position: center;
-    width: 100%;
+    /* width: 100%; */
     margin-top: 40px;
     border: solid goldenrod;
 }
